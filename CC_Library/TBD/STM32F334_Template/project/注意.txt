@@ -1,0 +1,1 @@
+不能把文件夹"Obiects"中的文件f334 DEMO.sct删除
